@@ -1,51 +1,50 @@
 # Basics of Artificial Intelligence
 
 - [ ] History
-- [ ] Turing Test
-- [ ] Total Turing Test
-- [ ] Applications of AI
+- [x] Turing Test ✅ 2024-06-22
+- [x] Total Turing Test ✅ 2024-06-22
+- [x] Applications of AI ✅ 2024-06-22
 
 # Intelligent Agents
 
-- [ ] Agents, concept of rationality
-- [ ] Performance Measure,  Environment, Actuators and Sensors
-- [ ] Properties of Task Environment
-	- [ ] Observability 
-	- [ ] Determinism
-	- [ ] Episodic vs Sequential
-	- [ ] Static vs Dynamic
-	- [ ] Discrete vs Continuous
-	- [ ] Cooperative vs Competitive
-	- [ ] Single Agent vs Multi-Agent
-- [ ] Agent program types
-	- [ ] Simple reflex agents
-	- [ ] Model based reflex agents
-- [ ] Goal Based Agents
-- [ ] Utility Based Agents
-- [ ] Model-based reflex Agents
-- [ ] Representation of Agent programs and their impacts
-	- [ ] Atomic
-	- [ ] Factored
-	- [ ] Structured
+- [x] Agents, concept of rationality ✅ 2024-06-22
+- [x] Performance Measure,  Environment, Actuators and Sensors ✅ 2024-06-22
+- [x] Properties of Task Environment ✅ 2024-06-22
+	- [x] Observability ✅ 2024-06-22
+	- [x] Determinism ✅ 2024-06-22
+	- [x] Episodic vs Sequential ✅ 2024-06-22
+	- [x] Static vs Dynamic ✅ 2024-06-22
+	- [x] Discrete vs Continuous ✅ 2024-06-22
+	- [x] Cooperative vs Competitive ✅ 2024-06-22
+	- [x] Single Agent vs Multi-Agent ✅ 2024-06-22
+- [x] Agent program types ✅ 2024-06-22
+	- [x] Simple reflex agents ✅ 2024-06-22
+	- [x] Model based reflex agents ✅ 2024-06-22
+- [x] Goal Based Agents ✅ 2024-06-22
+- [x] Utility Based Agents ✅ 2024-06-22
+- [x] Representation of Agent programs and their impacts ✅ 2024-06-22
+	- [x] Atomic ✅ 2024-06-22
+	- [x] Factored ✅ 2024-06-22
+	- [x] Structured ✅ 2024-06-22
 
 # Problem Solving in AI through Searching
 
-- [ ] Problem formulation, level of abstraction
-- [ ] Uninformed Search Strategies
-	- [ ] Bread First Search
-	- [ ] Depth First Search
-	- [ ] Uniform Cost Search
-	- [ ] Depth Limited Search
-	- [ ] Iterative Deepening Search
-	- [ ] Bidirectional Search
-	- [ ] Applications & Performance
-- [ ] Informed Search Strategies
-	- [ ] Greedy Best First Search
-	- [ ] A* Search
-	- [ ] Weighted A* search
-- [ ] Heuristic Information
-	- [ ] Heuristic Function
-	- [ ] Admissibility
+- [x] Problem formulation, level of abstraction ✅ 2024-06-22
+- [x] Uninformed Search Strategies ✅ 2024-06-22
+	- [x] Bread First Search ✅ 2024-06-22
+	- [x] Depth First Search ✅ 2024-06-22
+	- [x] Uniform Cost Search ✅ 2024-06-22
+	- [x] Depth Limited Search ✅ 2024-06-22
+	- [x] Iterative Deepening Search ✅ 2024-06-22
+	- [x] Bidirectional Search ✅ 2024-06-22
+	- [x] Applications & Performance ✅ 2024-06-22
+- [x] Informed Search Strategies ✅ 2024-06-22
+	- [x] Greedy Best First Search ✅ 2024-06-22
+	- [x] A* Search ✅ 2024-06-22
+	- [x] Weighted A* search ✅ 2024-06-22
+- [x] Heuristic Information ✅ 2024-06-22
+	- [x] Heuristic Function ✅ 2024-06-22
+	- [x] Admissibility ✅ 2024-06-22
 
 # Adversarial Search
 
@@ -109,7 +108,7 @@
 - [ ] Degree of Membership
 - [ ] Fuzzy Inference
 
-# Utility Based Agents and Decision Theory
+# U tility Based Agents and Decision Theory
 
 - [ ] Decision Theoretic Agents
 - [ ] Utility Theory
@@ -154,5 +153,3 @@
 - [ ] Bias and Fairness
 - [ ] Privacy and Security
 - [ ] Explainability and Transparency
-
-
